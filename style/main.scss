@@ -1,0 +1,17 @@
+$primary: #8B4513;
+$secondary: #faebd7;
+
+body {
+  text-align: center;
+  background-color: $primary;
+  color: $secondary;
+}
+
+button {
+  margin-top: 2em;
+  padding: .75em;
+  color: $primary;
+  background-color: $secondary;
+  border: none;
+  font-weight: bold;
+}
